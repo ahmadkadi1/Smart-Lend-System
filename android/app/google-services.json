@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "835407137412",
+    "firebase_url": "https://smart-lend-system.firebaseio.com",
+    "project_id": "smart-lend-system",
+    "storage_bucket": "smart-lend-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835407137412:android:1e9aa1bd8031d3679e50d1",
+        "android_client_info": {
+          "package_name": "banky.com.banky_loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDZSi7WqiPkxgwVPkVf4Q24CzWDR-78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835407137412:android:02351f594ca7fe949e50d1",
+        "android_client_info": {
+          "package_name": "banky.com.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDZSi7WqiPkxgwVPkVf4Q24CzWDR-78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835407137412:android:312404c7e37f8d8b9e50d1",
+        "android_client_info": {
+          "package_name": "banky.com.flutterappkjkkkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDZSi7WqiPkxgwVPkVf4Q24CzWDR-78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835407137412:android:670e03f94ee53e9a9e50d1",
+        "android_client_info": {
+          "package_name": "banky.com.smartlendsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDZSi7WqiPkxgwVPkVf4Q24CzWDR-78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835407137412:android:ac06f38bc037a5209e50d1",
+        "android_client_info": {
+          "package_name": "com.example.smartlendsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvDZSi7WqiPkxgwVPkVf4Q24CzWDR-78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835407137412-7m72jhg3ja0hchk611qvgopvun1bta7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
